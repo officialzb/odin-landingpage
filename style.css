@@ -159,6 +159,7 @@ button:hover {
     padding: 24px;
     border-radius: 5px;
     align-items: center;
+    justify-content: space-between;
 }
 .calltoactionbox{
     display: flex;
